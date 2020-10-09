@@ -5,3 +5,6 @@ coleção de coordenadas, mas sem ter que redefinir uma nova coleção denovo a 
  momento, era burro e anti-performance) 
 Aí descobrimos a função mágica do javascript Array.protoype.shift() que remove o primeiro elemento de um array, e de repente em uma única tarde eu
 consegui fazer o jogo da cobrinha sem muitas dificuldades.
+
+Use W, A, S e D para controlar a cobrinha, e R para reiniciar quando morrer.
+
