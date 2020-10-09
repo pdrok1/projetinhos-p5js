@@ -2,6 +2,8 @@
 
 ###### Projetinhos feitos em tardes de domingo ou no trabalho, quando eu tô inspirado e com tempo livre.
 
+Para quem está interessado na implementação, leia os arquivos sketch.js de cada projetinho.
+
 Aprendi muito sobre javascript e várias coisas aleatórias, principalmente de matemática e design.
 Sinta se livre para ver meus códigos evoluindo desde 07/2019, meu primeiro projeto "lerpo-lerpo" sobre interpolação linear composta.
 Leia os readmes para entender o propósito do projeto, a história, e como interagir.
